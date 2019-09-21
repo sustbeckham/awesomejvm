@@ -29,6 +29,9 @@
   * [PrintGCDetails](di-yi-bu-fen/jvm-xuan-xiang-ji/printgcdetails.md)
 * [问题排查工具](di-yi-bu-fen/wen-ti-pai-cha-gong-ju/README.md)
   * [BECKHAM](di-yi-bu-fen/wen-ti-pai-cha-gong-ju/beckham.md)
+* [杂谈](di-yi-bu-fen/wen-ti-pai-cha-gong-ju/README.md)
+  * [聊聊Hotspot中的一些缩写](di-yi-bu-fen/wen-ti-pai-cha-gong-ju/beckham.md)    
+  * [聊聊Hotspot中的位运算](di-yi-bu-fen/wen-ti-pai-cha-gong-ju/beckham.md)  
 
 ## 第二部分
 

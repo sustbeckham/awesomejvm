@@ -1,36 +1,39 @@
-# 目录
+# Table of contents
 
-### 第一部分
+* [前言](README.md)
 
-* [环境搭建](part1/README.md)
-    * [TALISICA](part1/README.md#writing)
-    * [ALAN](part1/README.md#gitbook)
-* [类文件格式](part2/README.md)
-    * [GOLATE](part2/README.md#feedback) 
-* [对象模型](part2/README.md)
-    * [OLIVLA](part2/README.md#feedback)
-* [运行时数据区域](part2/README.md)
-    * [SALAH](part2/README.md#feedback)    
-* [GC](part2/README.md)
-    * [KAFU](part2/README.md#feedback)
-* [解释器](part2/README.md)
-    * [OWEN](part2/README.md#feedback)
-* [JIT](part2/README.md)
-    * [DECO](part2/README.md#feedback)    
-* [指令集](part2/README.md)
-    * [xload](part2/README.md#feedback)  
-    * [return](part2/README.md#feedback)  
-    * [xadd](part2/README.md#feedback)  
-* [JVM选项集](part2/README.md)
-    * [Xmx](part2/README.md#feedback)  
-    * [Xms](part2/README.md#feedback)  
-    * [PrintGCDetails](part2/README.md#feedback)      
-* [问题排查工具](part2/README.md)
-    * [BECKHAM](part2/README.md#feedback)    
-    
-### 第二部分    
+## 第一部分
 
-* [问题排查实战](part2/README.md)
-    * [好难](part2/README.md#feedback)  
-    * [真香](part2/README.md#feedback)  
-    * [舒服](part2/README.md#feedback)  
+* [环境搭建](di-yi-bu-fen/huan-jing-da-jian/README.md)
+  * [TALISICA](di-yi-bu-fen/huan-jing-da-jian/talisica.md)
+  * [ALAN](di-yi-bu-fen/huan-jing-da-jian/alan.md)
+* [类文件格式](di-yi-bu-fen/lei-wen-jian-ge-shi/README.md)
+  * [GOLATE](di-yi-bu-fen/lei-wen-jian-ge-shi/golate.md)
+* [对象模型](di-yi-bu-fen/dui-xiang-mo-xing/README.md)
+  * [OLIVLA](di-yi-bu-fen/dui-xiang-mo-xing/olivla.md)
+* [运行时数据区域](di-yi-bu-fen/yun-hang-shi-shu-ju-qu-yu/README.md)
+  * [SALAH](di-yi-bu-fen/yun-hang-shi-shu-ju-qu-yu/salah.md)
+* [GC](di-yi-bu-fen/gc/README.md)
+  * [KAFU](di-yi-bu-fen/gc/kafu.md)
+* [解释器](di-yi-bu-fen/jie-shi-qi/README.md)
+  * [OWEN](di-yi-bu-fen/jie-shi-qi/owen.md)
+* [JIT](di-yi-bu-fen/jit/README.md)
+  * [DECO](di-yi-bu-fen/jit/deco.md)
+* [指令集](di-yi-bu-fen/zhi-ling-ji/README.md)
+  * [xload](di-yi-bu-fen/zhi-ling-ji/xload.md)
+  * [return](di-yi-bu-fen/zhi-ling-ji/return.md)
+  * [xadd](di-yi-bu-fen/zhi-ling-ji/xadd.md)
+* [JVM选项集](di-yi-bu-fen/jvm-xuan-xiang-ji/README.md)
+  * [Xmx](di-yi-bu-fen/jvm-xuan-xiang-ji/xmx.md)
+  * [Xms](di-yi-bu-fen/jvm-xuan-xiang-ji/xms.md)
+  * [PrintGCDetails](di-yi-bu-fen/jvm-xuan-xiang-ji/printgcdetails.md)
+* [问题排查工具](di-yi-bu-fen/wen-ti-pai-cha-gong-ju/README.md)
+  * [BECKHAM](di-yi-bu-fen/wen-ti-pai-cha-gong-ju/beckham.md)
+
+## 第二部分
+
+* [问题排查实战](di-er-bu-fen/wen-ti-pai-cha-shi-zhan/README.md)
+  * [好难](di-er-bu-fen/wen-ti-pai-cha-shi-zhan/hao-nan.md)
+  * [真香](di-er-bu-fen/wen-ti-pai-cha-shi-zhan/zhen-xiang.md)
+  * [舒服](di-er-bu-fen/wen-ti-pai-cha-shi-zhan/shu-fu.md)
+

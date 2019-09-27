@@ -41,5 +41,10 @@
 
 ## 第二部分
 
-* [问题排查实战](part12/expirement/README.md)
+* [问题排查实战](part2/expirement/README.md)
+
+
+## 第三部分
+
+* [鸣谢](part3//thanks.md)
 

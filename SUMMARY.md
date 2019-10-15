@@ -49,5 +49,5 @@
 
 ## 第三部分
 
-* [鸣谢](part3//thanks.md)
+* [鸣谢](/part3/thanks.md) 
 
